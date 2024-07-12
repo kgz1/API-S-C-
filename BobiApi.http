@@ -1,0 +1,6 @@
+@BobiApi_HostAddress = http://localhost:5142
+
+GET {{BobiApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
